@@ -13,7 +13,7 @@ Here are my findings on how to use github in the terminal
 
 # Commands
 
-## Getting Started (cloning, making a repository, making a commit, a branch, pushing.
+## Getting Started (cloning, making a repository, making a commit, a branch, pushing)
 	
 1.a) Make a repository in your computer running some version of linux. Type in terminal:
 
